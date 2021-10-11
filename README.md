@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Mariana
 
 I'm an iOS developer based in Portugal 🇵🇹  
-My journey with iOS development started in 2019, as a [TechDojo at Talkdesk](https://engineering.talkdesk.com/tech-dojo-ing-for-ios-2f86225ca93f).  
-Right now, I'm a full-time iOS developer at Talkdesk.
+My journey with iOS development started in 2019, as a [TechDojo at Talkdesk](https://engineering.talkdesk.com/tech-dojo-ing-for-ios-2f86225ca93f) 🥋  
+Right now, I work full-time on Talkdesk's mobile team ⚡️
 
 ## 💻 Technologies I work with
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
@@ -17,21 +17,5 @@ Right now, I'm a full-time iOS developer at Talkdesk.
 
 ## ❤️ About
 I'm a proud dog mom of a beautiful being named Ivi, who is the apple of my eye! 🐶 💛  
-I love being in nature 🍃, despite being a stay-at-home kind of girl 💁🏻‍♀️  
-In my spare time I like to watch movies and tv series, to read, and to play with my beautiful dog 🎉
-
-
-<!--
-**marianamend3s/marianamend3s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Although I enjoy being at cozy home, I feel great when I'm surrounded by nature 🍃  
+I like watching movies and tv series, reading, listening to music and playing with my beautiful dog 🎉
