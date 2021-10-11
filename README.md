@@ -9,6 +9,10 @@ I work full-time on Talkdesk's mobile team ⚡️
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+## 📝 What I'm up to
+⭐ I've been enrolled on this [Udemy's iOS course](https://www.udemy.com/course/ios-13-app-development-bootcamp/) for ages. I've recently resumed that goal, and I like how I always find something new to learn or to reinforce.  
+⭐ I've also created a [blog](https://marianamendes.me), where I'll ***try*** to maintain a writing habit. 
+
 ## 📫 Reach me at
 [![image](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://marianamendes.me)
 [![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marianamend3s)
