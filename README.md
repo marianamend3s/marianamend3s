@@ -1,5 +1,6 @@
-# 👋 Hi, I'm Mariana
+![Header](https://github.com/marianamend3s/marianamend3s/blob/main/Amarelo3.png)
 
+# 👋 Intro
 I'm an iOS developer based in Portugal 🇵🇹  
 My journey with iOS development started in 2019, as a [TechDojo at Talkdesk](https://engineering.talkdesk.com/tech-dojo-ing-for-ios-2f86225ca93f) 🥋  
 I work full-time on Talkdesk's mobile team ⚡️
