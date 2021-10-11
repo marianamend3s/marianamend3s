@@ -2,7 +2,7 @@
 
 I'm an iOS developer based in Portugal 🇵🇹  
 My journey with iOS development started in 2019, as a [TechDojo at Talkdesk](https://engineering.talkdesk.com/tech-dojo-ing-for-ios-2f86225ca93f) 🥋  
-Right now, I work full-time on Talkdesk's mobile team ⚡️
+I work full-time on Talkdesk's mobile team ⚡️
 
 ## 💻 Technologies I work with
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
