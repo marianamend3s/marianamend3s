@@ -1,4 +1,4 @@
-![Header](https://github.com/marianamend3s/marianamend3s/blob/main/Amarelo3.png)
+![Header](https://github.com/marianamend3s/marianamend3s/blob/main/Amarelo4.png)
 
 # 👋 Intro
 I'm an iOS developer based in Portugal 🇵🇹  
