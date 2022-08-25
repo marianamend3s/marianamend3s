@@ -3,7 +3,7 @@
 # 👋 Intro
 I'm an iOS developer based in Portugal 🇵🇹  
 My journey with iOS development started in 2019, as a [TechDojo at Talkdesk](https://engineering.talkdesk.com/tech-dojo-ing-for-ios-2f86225ca93f) 🥋, and worked there from 2019 to late 2021.
-Now I'm an iOS developer at Farfetch ⚡️
+Now I'm an iOS developer at [Farfetch](https://www.farfetchtechblog.com/en/) ⚡️
 
 ## 💻 Technologies I work with
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
