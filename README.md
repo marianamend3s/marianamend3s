@@ -2,8 +2,8 @@
 
 # 👋 Intro
 I'm an iOS developer based in Portugal 🇵🇹  
-My journey with iOS development started in 2019, as a [TechDojo](https://careers.talkdesk.com/us/en/student) at [Talkdesk](https://www.talkdesk.com/), and worked there from 2019 to late 2021.
-Now I'm an iOS developer at [Farfetch](https://www.farfetchtechblog.com/en/) ⚡️
+My journey with iOS development started in 2019, as a [TechDojo](https://careers.talkdesk.com/us/en/student) at [Talkdesk](https://www.talkdesk.com/), and worked there from 2019 to late 2021. Then I was part of an amazing iOS team at Farfetch.
+Now I'm an iOS developer at Sky 🚀 and loving it!
 
 ## 💻 Technologies I work with
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
@@ -21,4 +21,4 @@ Now I'm an iOS developer at [Farfetch](https://www.farfetchtechblog.com/en/) ⚡
 ## ❤️ About
 I'm a proud dog mom of a beautiful being named Ivi, who is the apple of my eye! 🐶 💛  
 Although I enjoy being at cozy home, I feel great when I'm surrounded by nature 🍃  
-I like watching movies and tv series, reading, listening to music, riding my bike and playing with my beautiful dog 🎉
+I like watching movies and tv series, traveling, reading, listening to music, riding my bike and playing with my beautiful dog 🎉
