@@ -2,7 +2,7 @@
 
 # 👋 Intro
 I'm an iOS developer based in Portugal 🇵🇹  
-My journey with iOS development started in 2019, as a [TechDojo](https://careers.talkdesk.com/us/en/student) at [Talkdesk](https://www.talkdesk.com/), and worked there from 2019 to late 2021. Then I was part of an amazing iOS team at Farfetch.
+My journey with iOS development started in 2019, as a Tech Dojo at Talkdesk, and worked there from 2019 to late 2021. Then I was part of an amazing iOS team at Farfetch.
 Now I'm an iOS developer at Sky 🚀 and loving it!
 
 ## 💻 Technologies I work with
